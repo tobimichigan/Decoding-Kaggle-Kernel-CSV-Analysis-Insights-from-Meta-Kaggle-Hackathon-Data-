@@ -2,7 +2,7 @@
 Decoding Kaggle Kernel &amp; CSV Analysis: Insights from Meta Kaggle Hackathon Data 
 This is the source code for the Meta Kaggle Hackathon 2025 Competition scientific paper with the same title.
 
-<p align="center">ABSTRACT</p>
+<p align="center"><strong>ABSTRACT</strong></p>
 <p>In this writeup, using code files (.r, .py, & ipnyb or notebook files) in /kaggle/input/meta-kaggle-code as well as  meta data csv files located in /kaggle/input/meta-kaggle,  I leverage a multi‑stage analytical pipeline—comprising Kaggle Kernel & CSV Analysis, a Full Pipeline for CSV & Code Repository Analytics, and Exploratory Data Analysis (EDA)—to uncover the evolving landscape of Kaggle hackathon participation and performance.
 
 Kaggle Kernel & CSV Analysis begins by sampling at least eighty (80) Python, R, and notebook files (up to 20 per extension) from the code repository, extracting metadata such as library usage, code cell counts, and total lines of code. A bar chart of the top‑10 most imported libraries reveals the dominance of TensorFlow, scikit‑learn, and pandas in hackathon workflows. Histogram analyses of code lengths quantify variability in script complexity, while distribution plots of script execution count highlight differences in iterative development across authors.
