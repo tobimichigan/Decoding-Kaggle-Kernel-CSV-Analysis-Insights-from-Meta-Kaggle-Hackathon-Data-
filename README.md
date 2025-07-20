@@ -1,9 +1,9 @@
 # Decoding-Kaggle-Kernel-CSV-Analysis-Insights-from-Meta-Kaggle-Hackathon-Data-
 Decoding Kaggle Kernel &amp; CSV Analysis: Insights from Meta Kaggle Hackathon Data 
 This is the source code for the Meta Kaggle Hackathon 2025 Competition scientific paper with the same title.
-Article Link: https://handsonlabs.org/decoding-kaggle-kernel-csv-analysis-insights-from-meta-kaggle-hackathon-data/?v=c6a82504ceeb
-Source Codes:
-Kaggle: https://www.kaggle.com/code/tobimichigan/decoding-kernel-csv-patterns-insights-trends
+<p>Article Link: https://handsonlabs.org/decoding-kaggle-kernel-csv-analysis-insights-from-meta-kaggle-hackathon-data/?v=c6a82504ceeb </p>
+<p>Source Codes:</p>
+<p>Kaggle: https://www.kaggle.com/code/tobimichigan/decoding-kernel-csv-patterns-insights-trends</p>
 <p align="center"><strong>ABSTRACT</strong></p>
 <p>In this writeup, using code files (.r, .py, & ipnyb or notebook files) in /kaggle/input/meta-kaggle-code as well as  meta data csv files located in /kaggle/input/meta-kaggle,  I leverage a multi‑stage analytical pipeline—comprising Kaggle Kernel & CSV Analysis, a Full Pipeline for CSV & Code Repository Analytics, and Exploratory Data Analysis (EDA)—to uncover the evolving landscape of Kaggle hackathon participation and performance.
 
